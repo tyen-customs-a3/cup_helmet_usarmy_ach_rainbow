@@ -2,7 +2,7 @@
 
 class CfgPatches
 {
-    class TC_H_CUPELMET_USARMY_ACH_RAINBOW
+    class TC_H_CUP_HELMET_USARMY_ACH_RAINBOW
     {
         author = "Tyen";
         requiredAddons[] = {
